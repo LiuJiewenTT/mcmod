@@ -65,5 +65,6 @@ Please follow steps below:
 ## Notice
 
 Current version of program will go wrong is any path has a blank in it. But for most common use of this program, there shouldn't be any blank in path. This means no accident to use the program. So, take it ease. If you have minority needs you can develop another version of it (This project is currently under Apache 2.0 license).
+https://github.com/LiuJiewenTT/mcmod
 
 Also, there already exist further versions of it in the world, but the author haven't upload. Please be patient, they would come up soon. The name of successor project would be declare later.
