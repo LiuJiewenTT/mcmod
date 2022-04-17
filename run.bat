@@ -1,4 +1,5 @@
 rem   Copyright 2022 LiuJiewenTT
+rem   You can find source code here: https://github.com/LiuJiewenTT/mcmod
 
 rem   Licensed under the Apache License, Version 2.0 (the "License");
 rem   you may not use this file except in compliance with the License.
