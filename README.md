@@ -62,4 +62,6 @@ Please follow steps below:
    1. The program should check some number of times before automatically quitting.
       i.e. The number you set is 1000, then it would check 1000 times and then exit.
 
+## Notice
 
+The successor **_MCVINE_**  is ready. [Go for it!](https://github.com/LiuJiewenTT/MCVINE/)
