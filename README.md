@@ -62,9 +62,4 @@ Please follow steps below:
    1. The program should check some number of times before automatically quitting.
       i.e. The number you set is 1000, then it would check 1000 times and then exit.
 
-## Notice
 
-Current version of program will go wrong is any path has a blank in it. But for most common use of this program, there shouldn't be any blank in path. This means no accident to use the program. So, take it easy. If you have minority needs you can develop another version of it. (This project is currently under Apache 2.0 license. You can find it in `LICENSE` in root directory. Also, `NOTICE` is provided.)
-You can get source code from: https://github.com/LiuJiewenTT/mcmod
-
-Also, there already exist further versions of it in the world, but the author haven't upload. Please be patient, they would come up soon. The name of successor project would be declare later.
